@@ -1,0 +1,30 @@
+
+question:1
+Write a JavaScript program to display the current day and time in the following format.
+Sample Output : Today is : Tuesday. Current time is : 10 PM : 30 : 38
+
+Answer:1
+https://jsfiddle.net/uxqpaozb/
+
+
+
+question:2
+a JavaScript program to determine whether a given year is a leap year in the Gregorian calendar.
+
+Answer:2
+https://jsfiddle.net/u5p0s7ak/
+
+
+
+question:3
+ JavaScript program to calculate days left until next Christmas
+
+answer:3
+https://jsfiddle.net/3qbuh0ne/
+
+
+question:4
+Write a JavaScript  program to capitalize the first letter of each word of a given stringS
+
+Answer:4
+https://jsfiddle.net/7hmwsbcv/
